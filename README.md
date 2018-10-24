@@ -1,3 +1,2 @@
 # hello-world
-This is an edit to the file
-here is another change
+changing the readme file to test rebase merge
